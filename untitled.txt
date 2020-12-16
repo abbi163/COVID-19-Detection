@@ -1,0 +1,4 @@
+Blog link: https://towardsdatascience.com/covid-19-detector-flask-app-based-on-chest-x-rays-and-ct-scans-using-deep-learning-a0db89e1ed2a
+
+Github Link: https://github.com/arpanmangal/CovidAID
+
